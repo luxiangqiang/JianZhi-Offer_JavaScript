@@ -18,4 +18,5 @@
 | ---- | --------- | -------- | ---------------- | ------------------------------------------------------------ |
 | 1    | 2019/8/26 | 二叉树   | 重建二叉树       | [题目详解](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md) |
 | 2    | 2019/8/27 | 二叉树   | 二叉树的下一节点 | [题目详解](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E8%8A%82%E7%82%B9.md) |
+| 3、  | 2019/8/28 | 二叉树   | 树的子结构       | [题目详解](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md) |
 
