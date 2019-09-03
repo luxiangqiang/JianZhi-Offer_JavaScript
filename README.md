@@ -24,4 +24,5 @@
 | 6    | 2019/8/30 | 二叉树   | 从上到下打印二叉树       | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E4%BB%8E%E4%B8%8A%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md) |
 | 7    | 2019/9/1  | 二叉树   | 二叉搜索树的后序遍历序列 | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E7%BB%AD%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md) |
 | 8    | 2019/9/2  | 二叉树   | 二叉树中和为某一值的路径 | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84.md) |
+| 9    | 2019/9/3  | 二叉树   | 二叉搜索树的第 K 大节点  | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%90%9C%E7%B4%A2%E7%AC%AC%20K%20%E5%A4%A7%E7%BB%93%E7%82%B9.md) |
 
