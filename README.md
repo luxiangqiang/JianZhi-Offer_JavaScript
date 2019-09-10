@@ -28,4 +28,5 @@
 | 10   | 2019/9/4  | 二叉树         | 二叉树序列化和反序列化   | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91%E5%92%8C%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91.md) |
 | 11   | 2019/9/5  | 二叉树         | 二叉树的深度             | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md) |
 | 12   | 2019/9/7  | 二叉树题型总结 | 二叉树小结               | [小结](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%89%91%E6%8C%87%20offer%20%E4%BA%8C%E5%8F%89%E6%A0%91%E6%80%BB%E7%BB%93.md) |
+| 13   | 2019/9/8  | 数组           | 数组中重复的数字         | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md) |
 
