@@ -30,4 +30,5 @@
 | 12   | 2019/9/7  | 二叉树题型总结 | 二叉树小结               | [小结](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%89%91%E6%8C%87%20offer%20%E4%BA%8C%E5%8F%89%E6%A0%91%E6%80%BB%E7%BB%93.md) |
 | 13   | 2019/9/9  | 数组           | 数组中重复的数字         | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md) |
 | 14   | 2019/9/11 | 数组           | 二维数组中的查找         | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.md) |
+| 15   | 2019/9/13 | 数组           | 旋转数组中的最小数字     | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md) |
 
