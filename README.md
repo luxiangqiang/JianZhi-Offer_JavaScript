@@ -33,4 +33,5 @@
 | 15   | 2019/9/13 | 数组           | 旋转数组中的最小数字               | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md) |
 | 16   | 2019/9/14 | 数组           | 调整数组的顺序让所有奇数在偶数面前 | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%85%B6%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E7%9A%84%E5%89%8D%E9%9D%A2.md) |
 | 17   | 2019/9/15 | 数组           | 数组中出现次数超过一半的数字       | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md) |
+| 18   | 2019/9/17 | 数组           | 连续子数组的最大和                 | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md) |
 
