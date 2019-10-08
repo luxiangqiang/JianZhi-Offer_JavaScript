@@ -35,4 +35,8 @@
 | 17   | 2019/9/15 | 数组           | 数组中出现次数超过一半的数字       | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md) |
 | 18   | 2019/9/17 | 数组           | 连续子数组的最大和                 | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md) |
 | 19   | 2019/9/23 | 数组           | 在排序数组中查找数字               | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97.md) |
+| 20   | 2019/9/24 | 数组           | 数组小结                           | [小结](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%89%91%E6%8C%87%20offer%20%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93.md) |
+| 21   | 2019/10/8 | 字符串         | 替换空格                           | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md) |
+
+
 
