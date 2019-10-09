@@ -37,6 +37,7 @@
 | 19   | 2019/9/23 | 数组           | 在排序数组中查找数字               | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97.md) |
 | 20   | 2019/9/24 | 数组           | 数组小结                           | [小结](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%89%91%E6%8C%87%20offer%20%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93.md) |
 | 21   | 2019/10/8 | 字符串         | 替换空格                           | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md) |
+| 22   | 2019/10/9 | 字符串         | 表示数值的字符串                   | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
 
 
 
