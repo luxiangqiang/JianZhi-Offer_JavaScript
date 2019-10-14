@@ -39,6 +39,7 @@
 | 21   | 2019/10/8  | 字符串         | 替换空格                           | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md) |
 | 22   | 2019/10/9  | 字符串         | 表示数值的字符串                   | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
 | 23   | 2019/10/11 | 字符串         | 字符串的排列                       | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) |
+| 24   | 2019/10/14 | 字符串         | 最长不含重复字符的子字符串         | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%9C%80%E9%95%BF%E4%B8%8D%E5%90%AB%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
 
 
 
