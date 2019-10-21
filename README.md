@@ -41,6 +41,7 @@
 | 23   | 2019/10/11 | 字符串         | 字符串的排列                       | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md) |
 | 24   | 2019/10/14 | 字符串         | 最长不含重复字符的子字符串         | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E6%9C%80%E9%95%BF%E4%B8%8D%E5%90%AB%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
 | 25   | 2019/10/19 | 字符串         | 翻转字符串                         | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) |
+| 26   | 2019/10/21 | 字符串         | 第一次只出现一次的字符             | [题目解析](https://github.com/luxiangqiang/JianZhi-Offer_JavaScript/blob/master/第一个只出现一次的字符串.md) |
 
 
 
